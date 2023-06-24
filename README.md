@@ -2,7 +2,7 @@
 A python command line application to send messages across networks from clients to servers.
 
 ## Current Capabilities
--Can host server and client locally. /n
+-Can host server and client locally. \n
 -One device chat function with one message per side at once
 
 ## Working On
